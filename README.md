@@ -1,4 +1,5 @@
 === Plugin Name ===
+
 Contributors: marclloyd77
 Donate link: http://marclloyd.co.uk/
 Tags: Ninja Forms, Layout, fieldset, div, Ninja Forms Layout
@@ -20,8 +21,6 @@ This plugin requires the Ninja Forms plugin.
 
 1. Upload 'plugin-name.php' to the '/wp-content/plugins/'' directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-
-== Frequently Asked Questions ==
 
 == Screenshots ==
 
